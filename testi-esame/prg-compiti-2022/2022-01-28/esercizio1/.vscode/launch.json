@@ -1,0 +1,35 @@
+{
+    // Usare IntelliSense per informazioni sui possibili attributi.
+    // Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.
+    // Per altre informazioni, visitare: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Lancia",
+            "request": "launch",
+            "mainClass": "es1.Lancia",
+            "projectName": "esercizio1_c29abd0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prova",
+            "request": "launch",
+            "mainClass": "es1.Prova",
+            "projectName": "esercizio1_c29abd0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prova",
+            "request": "launch",
+            "mainClass": "Prova",
+            "projectName": "esercizio1_c29abd0c"
+        }
+    ]
+}
